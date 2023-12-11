@@ -1,0 +1,38 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+}
+
+html {
+  font-size: 65%;
+}
+
+table {
+  margin: 5rem auto;
+  border-radius: 2rem;
+  box-shadow: 0 0 0 1px black;
+  border-collapse: collapse;
+  overflow: hidden;
+}
+
+thead{
+  background-color: #443C68;
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+th, td{
+  border: 1px solid #443C68;
+  padding: 1.2rem;
+  text-align: center;
+  min-width: 28rem;
+}
+
+td{
+  font-size: 1.3rem;
+}
+
+
+
